@@ -1,0 +1,59 @@
+body {
+	background-color: #ffd000;
+}
+
+img{
+  position: fixed;
+  width: 50%;
+  height: 50%;
+}
+
+img.i_have{
+  top: 0;
+  left: 0;
+}
+
+img.nothing{
+  top: 0;
+  right: 0;
+}
+
+img.to{
+  bottom: 0;
+  left: 0;
+}
+
+img.say{
+  bottom: 0;
+  right: 0;
+}
+
+footer{
+  position: fixed;
+  font-size: 10px;
+  bottom: 10px;
+  right: 10px;
+}
+
+/* typo noire
+img.and{
+  top: 0;
+  left: 0;
+}
+
+img.iam{
+  top: 0;
+  right: 0;
+}
+
+img.saying{
+  bottom: 0;
+  left: 0;
+}
+
+img.it{
+  bottom: 0;
+  right: 0;
+}
+
+*/
